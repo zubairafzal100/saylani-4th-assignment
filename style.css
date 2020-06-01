@@ -1978,7 +1978,7 @@ body {
         padding-right: 10px;
     }
     .Contact-container {
-        height: 391.317px;
+        height: 391.317px !important;
     }
     .Contact-main-div {
         padding-bottom: 5px;
