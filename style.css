@@ -1977,6 +1977,9 @@ body {
         padding-left: 10px;
         padding-right: 10px;
     }
+    .Contact-container {
+        height: 391.317px;
+    }
     .Contact-main-div {
         padding-bottom: 5px;
     }
@@ -1985,7 +1988,8 @@ body {
     }
     .contact-img {
         width: 284px !important;
-        padding-top: 180px;
+        height: 190.517px !important;
+        top: 159px;
         left: -170px;
         bottom: 0;
     }
