@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'PF Bague Round Pro';
+    src: local('PF Bague Round Pro Bold'), local('PF-Bague-Round-Pro-Bold'),
+        url('PFBagueRoundPro-Bold.woff2') format('woff2'),
+        url('PFBagueRoundPro-Bold.woff') format('woff'),
+        url('PFBagueRoundPro-Bold.ttf') format('truetype');
+    font-weight: 700;
+    font-style: normal;
+  }
